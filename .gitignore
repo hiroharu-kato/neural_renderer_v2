@@ -1,0 +1,7 @@
+.idea
+*~
+*.pyc
+UNKNOWN.egg-info
+.DS_Store
+memo.txt
+__pycache__
